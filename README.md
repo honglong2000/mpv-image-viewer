@@ -1,0 +1,1 @@
+A preconfigured version of mpv to be used exclusively for image viewing that supports RTX HDR & Windows natural sorting. I wanted to create an image viewer as close as possible to FastStone image viewer with the advanced capabilities of mpv which is why this was created.
